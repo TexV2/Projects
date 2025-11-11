@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carl\\projects\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{792B4D91-66C6-46C0-A64D-B3F952FA4277}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\carl\\projects\\HelloWorld\\HelloWorld\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{792B4D91-66C6-46C0-A64D-B3F952FA4277}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792B4D91-66C6-46C0-A64D-B3F952FA4277}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\carl\\projects\\HelloWorld\\HelloWorld\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{792B4D91-66C6-46C0-A64D-B3F952FA4277}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Log.cpp",
+              "DocumentMoniker": "C:\\Users\\carl\\projects\\HelloWorld\\HelloWorld\\Log.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\Log.cpp",
+              "ToolTip": "C:\\Users\\carl\\projects\\HelloWorld\\HelloWorld\\Log.cpp",
+              "RelativeToolTip": "HelloWorld\\Log.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-11T23:10:23.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\carl\\projects\\HelloWorld\\HelloWorld\\Main.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\Main.cpp",
+              "ToolTip": "C:\\Users\\carl\\projects\\HelloWorld\\HelloWorld\\Main.cpp",
+              "RelativeToolTip": "HelloWorld\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-11T23:07:23.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
