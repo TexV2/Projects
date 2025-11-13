@@ -26,6 +26,11 @@ build/
 .idea/
 *.code-workspace
 
+# Visual Studio / VS temp files
+.vs/
+*.suo
+*.VC.db
+
 # GitHub Copilot temporary files (VS Code)
 .copilot.* 
 
