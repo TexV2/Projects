@@ -1,0 +1,32 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled static libraries
+*.lib
+*.a
+
+# Compiled dynamic libraries / shared objects
+*.dll
+*.so
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug / Release folders
+Debug/
+Release/
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
