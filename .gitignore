@@ -19,11 +19,20 @@
 # Debug / Release folders
 Debug/
 Release/
+build/
 
 # IDE files
 .vscode/
 .idea/
 *.code-workspace
+
+# Visual Studio / VS temp files
+.vs/
+*.suo
+*.VC.db
+
+# GitHub Copilot temporary files (VS Code)
+.copilot.* 
 
 # MacOS specific
 .DS_Store
