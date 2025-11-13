@@ -1,5 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (HelloWorld.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Main.cpp
-C:\Users\carl\projects\HelloWorld\HelloWorld\Main.cpp(37,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-C:\Users\carl\projects\HelloWorld\HelloWorld\Main.cpp(39,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-  HelloWorld.vcxproj -> C:\Users\carl\projects\HelloWorld\x64\Debug\LektionsuppgiftA.exe
