@@ -19,19 +19,18 @@
 # Debug / Release folders
 Debug/
 Release/
+build/
 
 # IDE files
 .vscode/
 .idea/
 *.code-workspace
 
+# GitHub Copilot temporary files (VS Code)
+.copilot.* 
+
 # MacOS specific
 .DS_Store
 
 # Windows specific
 Thumbs.db
-
-# Debug / Release folders
-Debug/
-Release/
-build/
